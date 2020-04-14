@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/77b400fe-1554-4563-a0d5-9c46ebb4f3f8/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/temperature-by-zipcode"
+}
